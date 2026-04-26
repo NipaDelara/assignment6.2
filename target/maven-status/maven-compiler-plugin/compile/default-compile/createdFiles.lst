@@ -1,0 +1,4 @@
+view\CurrencyView.class
+model\Currency.class
+controller\CurrencyController.class
+database\DatabaseConnection.class
